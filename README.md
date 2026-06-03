@@ -1,78 +1,168 @@
-# Hi, I'm Anas 👋
+# Anas Yusuf  
+### Backend Web Engineer
 
-Backend Developer specializing in building scalable APIs and backend systems.
-
-I focus on writing clean, maintainable, and production-ready code using PHP, Symfony, MySQL, and RESTful architecture.
+Backend Developer specializing in building scalable APIs and backend systems using PHP, Laravel, MySQL, and RESTful architecture.
 
 ---
 
 ## 🚀 About Me
 
-- 🔧 Backend Developer (PHP / Symfony / MySQL)
-- 🌐 Focused on API development and system design
-- 🧠 Interested in scalable backend architectures
-- 💼 Open to remote backend opportunities
-- 📈 Constantly improving my system design and coding skills
+Backend Developer with strong expertise in Laravel, PHP, MySQL, RESTful APIs, Redis, transactional systems, backend optimization, and asynchronous job processing.  
+Experienced in production support, distributed systems, scalable backend architecture, and enterprise-grade applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 📫 Contact Information
 
-**Backend**
-- PHP
-- Symfony
-- REST APIs
-- MySQL
+- 📞 Phone: +60 18 3952243  
+- 📧 Email: anasyusuf6@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/anasyusuf  
+- 💻 GitHub: https://github.com/AnasYusuf  
 
-**Tools & Practices**
-- Git & GitHub
-- Postman
-- Docker (basic)
-- MVC Architecture
-- Agile Development
+---
+
+## 🛠️ Technical Expertise
+
+### Backend Engineering
+- RESTful API architecture and integration
+- Authentication, authorization & validation
+- Asynchronous job processing (Redis queues)
+- Idempotent job execution & event logging
+- Cron automation & background processing
+- Scalable backend workflows
+
+---
+
+### Database Engineering
+- MySQL schema design & normalization
+- Complex SQL queries & transactions
+- Index optimization & performance tuning
+- Race condition prevention
+- Production debugging & troubleshooting
+- Real-time data synchronization
+
+---
+
+### Development Workflow
+- Git branching, pull requests & code reviews
+- Postman API testing & documentation
+- Production monitoring & issue resolution
+- Agile development practices
+- Cross-functional collaboration
+
+---
+
+### Frontend & Integrations
+- Bootstrap responsive UI development
+- JavaScript, AJAX & jQuery integrations
+- Google Maps API integration
+- Payment gateway integration
+- Symfony exposure & Node.js fundamentals
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 API Management System
-- Built a secure REST API system with authentication and role-based access
-- Tech: PHP, MySQL
-- Features: User management, logging, structured API responses
-- GitHub: https://github.com/AnasYusuf/remote-backend-demo
+### Coupon Processing System
+**Tech:** Laravel / Redis / MySQL  
+- Atomic coupon reservation system  
+- Multi-queue asynchronous architecture  
+- Idempotent job processing  
+- Analytics & logging pipelines  
+- High-concurrency handling  
 
 ---
 
-### 🔹 Notification Queue System
-- Designed a backend worker system for processing queued jobs
-- Simulated real-world async processing flow
-- Tech: PHP, MySQL, Queue Concepts
-- GitHub: https://github.com/AnasYusuf/coupon-processing
+### Orders & Transactions API
+**Tech:** PHP / MySQL  
+- RESTful API for order management  
+- Transaction-safe database operations  
+- Pagination & filtering system  
+- Production-style backend structure  
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+### Software Engineer – Lomax Media (Remote)
+**Oct 2020 – Present**
+- Designed scalable backend modules using PHP & MySQL  
+- Built secure role-based APIs  
+- Improved database performance by up to 40%  
+- Reduced production issues via validation workflows  
+- Maintained long-term production stability  
 
 ---
 
-## 📫 Contact Me
+### Backend Engineer – CSD Head Office
+**Mar 2022 – Sept 2023**
+- Maintained retail management backend system  
+- Built employee credit sales module  
+- Improved processing efficiency by 45%  
+- Achieved 99.9% system availability  
+- Supported real-time outlet synchronization  
 
-- 📧 Email: anasyusuf6@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/anasyusuf
-- 🌐 Portfolio: https://github.com/anasyusuf  
+---
+
+### Software Engineer – Riphah University
+**Oct 2020 – Mar 2022**
+- Maintained Laravel & CodeIgniter applications  
+- Improved system performance & stability  
+- Supported internal IT initiatives  
+
+---
+
+### Software Engineer – Juris Technologies
+**Sept 2019 – Aug 2020**
+- Built REST APIs using Laravel/Lumen  
+- Supported enterprise deployments  
+- Optimized SQL queries & reporting systems  
+
+---
+
+### PHP Developer (Contract)
+**2018 – 2019**
+- Built logistics & payment integrations  
+- Improved database performance  
+- Worked on PCI-compliant workflows  
+
+---
+
+### Software Engineer – Integrio Business Solutions
+**Mar 2016 – Oct 2017**
+- Developed ERP modules & backend APIs  
+- Built workflow management systems  
+- Improved Git-based collaboration practices  
+
+---
+
+## 🎓 Education
+
+**MSc, IT Management**  
+University of Staffordshire, UK (2017)
+
+**BS, Computer Science**  
+COMSATS Institute of Information Technology (2012)
+
+---
+
+## 📜 Certifications
+
+- Generative AI for Developers  
+- WordPress - Elementor  
+- Flutter & Android Basics  
+- Shopify Training  
+- CCNA (Cisco Certified Network Associate)  
+- IELTS  
 
 ---
 
 ## 🎯 Goals
 
-- Strengthen Symfony and backend architecture skills
-- Build production-level API systems
-- Contribute to open-source projects
-- Secure a remote backend developer role
+- Strengthen Symfony & backend architecture skills  
+- Build production-grade API systems  
+- Contribute to open-source projects  
+- Secure a remote backend developer role  
 
 ---
 
