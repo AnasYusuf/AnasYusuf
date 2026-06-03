@@ -1,169 +1,88 @@
-# Anas Yusuf  
-### Backend Web Engineer
+# Hi, I'm Anas Yusuf 👋
 
-Backend Developer specializing in building scalable APIs and backend systems using PHP, Laravel, MySQL, and RESTful architecture.
-
----
-
-## 🚀 About Me
-
-Backend Developer with strong expertise in Laravel, PHP, MySQL, RESTful APIs, Redis, transactional systems, backend optimization, and asynchronous job processing.  
-Experienced in production support, distributed systems, scalable backend architecture, and enterprise-grade applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+APIs;Scalable+Systems+%7C+Clean+Architecture;Remote-Ready+Developer" />
+</p>
 
 ---
 
-## 📫 Contact Information
+## 🧠 Professional Summary
 
-- 📞 Phone: +60 18 3952243  
-- 📧 Email: anasyusuf6@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/anasyusuf  
-- 💻 GitHub: https://github.com/AnasYusuf  
+<div align="center">
 
----
+![Backend](https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-Advanced-F05340?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
 
-## 🛠️ Technical Expertise
+</div>
 
-### Backend Engineering
-- RESTful API architecture and integration
-- Authentication, authorization & validation
-- Asynchronous job processing (Redis queues)
-- Idempotent job execution & event logging
-- Cron automation & background processing
-- Scalable backend workflows
+Backend Engineer specializing in **scalable APIs, distributed backend systems, and database-driven architectures**.
+
+Focused on building **production-grade, maintainable, and high-performance systems** using PHP, Laravel, and MySQL.
 
 ---
 
-### Database Engineering
-- MySQL schema design & normalization
-- Complex SQL queries & transactions
-- Index optimization & performance tuning
-- Race condition prevention
-- Production debugging & troubleshooting
-- Real-time data synchronization
+## ⚙️ Tech Stack
+
+### 🧩 Backend Engineering
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-F05340?logo=laravel)
+![REST API](https://img.shields.io/badge/REST-API-green)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis)
+
+- RESTful API architecture
+- Authentication & authorization systems
+- Queue-based async processing
+- Event-driven backend workflows
+- Cron & automation systems
 
 ---
 
-### Development Workflow
-- Git branching, pull requests & code reviews
-- Postman API testing & documentation
-- Production monitoring & issue resolution
-- Agile development practices
-- Cross-functional collaboration
+### 🗄️ Database Engineering
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
+![Query Optimization](https://img.shields.io/badge/SQL-Optimization-orange)
+
+- Advanced schema design
+- Query optimization & indexing
+- Transactional integrity
+- Race-condition prevention
+- High-volume data systems
 
 ---
 
-### Frontend & Integrations
-- Bootstrap responsive UI development
-- JavaScript, AJAX & jQuery integrations
-- Google Maps API integration
-- Payment gateway integration
-- Symfony exposure & Node.js fundamentals
+### 🧰 Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?logo=git)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+![Agile](https://img.shields.io/badge/Agile-Scrum-blue)
+
+- Git branching & PR workflows
+- API testing with Postman
+- Agile sprint execution
+- Production debugging
+- Team collaboration workflows
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Analytics
 
-### Coupon Processing System
-**Tech:** Laravel / Redis / MySQL  
-- Atomic coupon reservation system  
-- Multi-queue asynchronous architecture  
-- Idempotent job processing  
-- Analytics & logging pipelines  
-- High-concurrency handling  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AnasYusuf&show_icons=true&theme=default" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasYusuf&layout=compact" height="180"/>
+</p>
 
----
-
-### Orders & Transactions API
-**Tech:** PHP / MySQL  
-- RESTful API for order management  
-- Transaction-safe database operations  
-- Pagination & filtering system  
-- Production-style backend structure  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnasYusuf" />
+</p>
 
 ---
 
-## 💼 Professional Experience
+## 🧱 Featured Engineering Projects
 
-### Software Engineer – Lomax Media (Remote)
-**Oct 2020 – Present**
-- Designed scalable backend modules using PHP & MySQL  
-- Built secure role-based APIs  
-- Improved database performance by up to 40%  
-- Reduced production issues via validation workflows  
-- Maintained long-term production stability  
+<div align="center">
 
----
+### ⚡ Coupon Processing System
+</div>
 
-### Backend Engineer – CSD Head Office
-**Mar 2022 – Sept 2023**
-- Maintained retail management backend system  
-- Built employee credit sales module  
-- Improved processing efficiency by 45%  
-- Achieved 99.9% system availability  
-- Supported real-time outlet synchronization  
-
----
-
-### Software Engineer – Riphah University
-**Oct 2020 – Mar 2022**
-- Maintained Laravel & CodeIgniter applications  
-- Improved system performance & stability  
-- Supported internal IT initiatives  
-
----
-
-### Software Engineer – Juris Technologies
-**Sept 2019 – Aug 2020**
-- Built REST APIs using Laravel/Lumen  
-- Supported enterprise deployments  
-- Optimized SQL queries & reporting systems  
-
----
-
-### PHP Developer (Contract)
-**2018 – 2019**
-- Built logistics & payment integrations  
-- Improved database performance  
-- Worked on PCI-compliant workflows  
-
----
-
-### Software Engineer – Integrio Business Solutions
-**Mar 2016 – Oct 2017**
-- Developed ERP modules & backend APIs  
-- Built workflow management systems  
-- Improved Git-based collaboration practices  
-
----
-
-## 🎓 Education
-
-**MSc, IT Management**  
-University of Staffordshire, UK (2017)
-
-**BS, Computer Science**  
-COMSATS Institute of Information Technology (2012)
-
----
-
-## 📜 Certifications
-
-- Generative AI for Developers  
-- WordPress - Elementor  
-- Flutter & Android Basics  
-- Shopify Training  
-- CCNA (Cisco Certified Network Associate)  
-- IELTS  
-
----
-
-## 🎯 Goals
-
-- Strengthen Symfony & backend architecture skills  
-- Build production-grade API systems  
-- Contribute to open-source projects  
-- Secure a remote backend developer role  
-
----
-
-⭐ *Always building. Always improving.*
+```txt
+Stack: Laravel | Redis | MySQL
