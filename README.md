@@ -53,23 +53,16 @@ Focused on building production-grade, maintainable, and high-performance backend
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnasYusuf&show_icons=true&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasYusuf&layout=compact&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnasYusuf&hide_border=true" />
-</p>
-
----
 
 ## 🧱 Featured Engineering Projects
 
 ### ⚡ Coupon Processing System
-Stack: Laravel | Redis | MySQL
+
+<p>
+  <img src="https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+</p>
 
 - Atomic coupon reservation system under high concurrency  
 - Queue-based asynchronous processing architecture  
@@ -80,13 +73,35 @@ Stack: Laravel | Redis | MySQL
 ---
 
 ### 📦 Orders & Transactions API
-Stack: PHP | MySQL | REST API
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST-API-green?style=flat" />
+</p>
 
 - RESTful backend API for order management  
 - Transaction-safe database operations  
 - Pagination and filtering system  
 - Clean modular architecture  
 - Production-ready API structure  
+
+---
+
+### 🛠️ Admin Panel Practice System
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+</p>
+
+- Built a structured admin panel with authentication flow  
+- Implemented CRUD operations for core entities  
+- Designed role-based access structure (basic RBAC logic)  
+- Responsive UI using Bootstrap  
+- Focused on backend logic separation and modular structure  
+- GitHub: https://github.com/AnasYusuf/admin-panel-practice
 
 ---
 
