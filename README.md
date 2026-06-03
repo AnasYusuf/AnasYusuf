@@ -56,13 +56,14 @@ Focused on building production-grade, maintainable, and high-performance backend
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnasYusuf&show_icons=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasYusuf&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnasYusuf&show_icons=true&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnasYusuf&layout=compact&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=AnasYusuf&hide_border=true" />
 </p>
+
 ---
 
 ## 🧱 Featured Engineering Projects
