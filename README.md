@@ -155,10 +155,42 @@ Built a production-style backend API for order processing and transactional work
 
 ### Previous Roles
 
-- Software Engineer — Riphah University
-- Software Engineer — Juris Technologies
-- PHP Developer — Contract Projects
-- Software Engineer — Integrio Business Solutions
+#### 🏫 Software Engineer — Riphah University (Oct 2020 – Mar 2022)
+
+- Maintained and enhanced Laravel and CodeIgniter applications
+- Led planning and execution for internal IT initiatives
+- Improved system responsiveness and overall application performance
+- Collaborated with stakeholders to deliver business requirements
+
+#### 🏢 Software Engineer — Juris Technologies (Sept 2019 – Aug 2020)
+
+- Designed and implemented REST APIs using Laravel/Lumen
+- Supported UAT and production deployments for enterprise clients
+- Improved reporting performance through database and query optimization
+- Worked closely with teams to deliver reliable backend solutions
+
+#### 🤝 PHP Developer (Contract) (2018 – 2019)
+
+Worked with multiple organizations delivering backend solutions and integrations.
+
+**BestWeb Technologies**
+- Enhanced Laravel and CodeIgniter applications
+- Consolidated and optimized MySQL databases
+
+**Azegel LLC**
+- Built PHP/MySQL backends and REST APIs
+- Implemented logistics and payment integrations
+
+**GHL Systems Berhad**
+- Integrated PCI-compliant payment gateways
+- Improved SQL performance and backend reliability
+
+#### 🏭 Software Engineer — Integrio Business Solutions (Mar 2016 – Oct 2017)
+
+- Developed ERP modules using Laravel and CodeIgniter
+- Built REST APIs supporting business workflows
+- Improved team productivity through Git-based version control practices
+- Participated in the development of business-critical systems
 
 ---
 
