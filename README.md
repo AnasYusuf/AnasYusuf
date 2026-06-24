@@ -1,60 +1,94 @@
 # Hi, I'm Anas Yusuf 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=600&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+MySQL+%7C+REST+APIs;Scalable+Systems+%7C+Clean+Architecture;Remote-Ready+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+Node.js+%7C+MySQL;REST+APIs+%7C+System+Architecture;Building+Scalable+Backend+Systems;Remote-Ready+Developer" />
 </p>
 
 ---
 
 ## 🧠 Professional Summary
 
-<p align="center">
+Backend Engineer with **7+ years of experience** designing, building, and maintaining secure, database-driven web applications and RESTful APIs using PHP, Laravel, MySQL, and modern backend development practices.
 
-![Backend](https://img.shields.io/badge/Backend-Engineer-blue?style=for-the-badge)
-![PHP](https://img.shields.io/badge/PHP-Expert-777BB4?style=for-the-badge&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-Advanced-F05340?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=for-the-badge&logo=mysql)
+Strong background in transactional systems, asynchronous processing, backend performance optimization, and production support. Experienced in collaborating with distributed teams, supporting enterprise platforms, and building scalable backend architectures.
 
-</p>
+Recently expanded expertise into Node.js by building production-style REST APIs implementing JWT authentication, middleware-based security, and layered (Controller–Service–Repository) architecture.
 
-Backend Engineer specializing in scalable APIs, distributed backend systems, and database-driven architectures.
+---
 
-Focused on building production-grade, maintainable, and high-performance backend systems using PHP, Laravel, and MySQL.
+## 🌟 Highlights
+
+- 🚀 7+ years of backend engineering experience
+- 📈 Improved database performance by up to 40%
+- ⚡ Reduced backend processing time by 45%
+- 🏪 Supported enterprise systems serving 200+ outlets
+- 🔧 Built production-style backend projects and APIs
+- 🌍 Experienced in remote collaboration and distributed teams
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Backend Engineering
-- PHP / Laravel
-- RESTful API Architecture
-- Authentication & Authorization Systems
-- Redis Queue Processing
-- Event-driven backend workflows
-- Cron automation systems
+### Backend & APIs
 
----
+- PHP (Core PHP)
+- Laravel
+- Node.js
+- Express.js
+- RESTful API Design
+- JWT Authentication
+- API Authentication, Validation & Error Handling
 
 ### Database Engineering
-- MySQL schema design & normalization
-- Query optimization & indexing
-- Transaction management
-- Race condition prevention
-- High-volume data handling
 
----
+- MySQL Schema Design
+- Database Normalization
+- Transactions
+- Query Optimization
+- Indexing
+- Data Integrity
+- Race Condition Prevention
 
 ### Tools & Workflow
-- Git branching & PR workflows
-- Postman API testing
-- Agile development practices
-- Production debugging
-- Team collaboration workflows
+
+- Git (Branching, Pull Requests, Code Reviews)
+- Postman
+- Debugging & Logging
+- Agile Development
+- Remote Team Collaboration
+
+### Additional Exposure
+
+- JavaScript
+- AJAX
+- jQuery
+- Symfony
 
 ---
 
-
 ## 🧱 Featured Engineering Projects
+
+### 🔐 Node.js JWT Auth API
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat" />
+</p>
+
+Built a production-style REST API implementing a layered backend architecture (Controller → Service → Repository) with JWT-based authentication and MySQL integration.
+
+- User registration and login APIs
+- Password hashing with bcrypt
+- JWT authentication
+- Middleware-protected routes
+- MySQL connection pooling
+- Scalable project structure
+
+🔗 Repository: https://github.com/AnasYusuf/nodejs-jwt-auth-api
+
+---
 
 ### ⚡ Coupon Processing System
 
@@ -64,11 +98,16 @@ Focused on building production-grade, maintainable, and high-performance backend
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
-- Atomic coupon reservation system under high concurrency  
-- Queue-based asynchronous processing architecture  
-- Idempotent job execution system  
-- Event logging and analytics pipeline  
-- Production-level reliability handling  
+Built a high-concurrency, production-style coupon processing engine using asynchronous job queues, Redis, and MySQL to simulate enterprise-scale e-commerce workflows.
+
+- Atomic coupon reservations
+- Dynamic rule validation
+- Idempotent jobs
+- Multi-queue architecture
+- Event logging and analytics
+- Concurrency control mechanisms
+
+🔗 Repository: https://github.com/AnasYusuf/coupon-processing
 
 ---
 
@@ -80,102 +119,82 @@ Focused on building production-grade, maintainable, and high-performance backend
   <img src="https://img.shields.io/badge/REST-API-green?style=flat" />
 </p>
 
-- RESTful backend API for order management  
-- Transaction-safe database operations  
-- Pagination and filtering system  
-- Clean modular architecture  
-- Production-ready API structure  
+Built a production-style backend API for order processing and transactional workflows using PHP and MySQL, simulating a real-world e-commerce system.
+
+- Order creation and retrieval
+- Filtering and pagination
+- Transaction-safe operations
+- API documentation
+- Database schema design
+- Mobile and web integration support
+
+🔗 Repository: https://github.com/AnasYusuf/remote-backend-demo
 
 ---
 
-### 🛠️ Admin Panel Practice System
+## 💼 Professional Experience
 
-<p>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
-</p>
+### Software Engineer / PHP Developer — Lomax Media (Remote)
 
-- Built a structured admin panel with authentication flow  
-- Implemented CRUD operations for core entities  
-- Designed role-based access structure (basic RBAC logic)  
-- Responsive UI using Bootstrap  
-- Focused on backend logic separation and modular structure  
-- GitHub: https://github.com/AnasYusuf/admin-panel-practice
-
----
-
-## 🏢 Professional Experience
-
-### Software Engineer — Lomax Media (Remote)
 **Oct 2020 – Present**
 
-- Built scalable backend systems using PHP & MySQL  
-- Designed secure role-based API systems  
-- Improved database performance by 40%  
-- Reduced production issues through validation workflows  
-- Maintained long-term system stability  
-
----
+- Built and maintained database-driven platforms
+- Improved database performance by up to 40%
+- Developed secure admin and role-based systems
+- Built scalable backend components and APIs
+- Collaborated with stakeholders to deliver technical solutions
 
 ### Backend Engineer — CSD Head Office
+
 **Mar 2022 – Sept 2023**
 
-- Supported retail systems across 200+ outlets  
-- Built transactional credit systems  
-- Improved processing efficiency by 45%  
-- Achieved 99.9% uptime stability  
+- Supported systems serving 200+ outlets
+- Reduced processing time by 45%
+- Delivered 99.9% system availability
+- Mentored junior developers
 
----
+### Previous Roles
 
-### Earlier Roles
-- Software Engineer — Riphah University  
-- Software Engineer — Juris Technologies  
-- PHP Developer — Contract Projects  
-- Integrio Business Solutions — ERP Systems  
+- Software Engineer — Riphah University
+- Software Engineer — Juris Technologies
+- PHP Developer — Contract Projects
+- Software Engineer — Integrio Business Solutions
 
 ---
 
 ## 🎓 Education
 
-- MSc IT Management — University of Staffordshire (UK)  
-- BS Computer Science — COMSATS Institute of IT  
+- MSc, IT Management — University of Staffordshire (UK)
+- BS, Computer Science — COMSATS Institute of Information Technology
 
 ---
 
 ## 📜 Certifications
 
-- Generative AI for Developers  
-- CCNA (Cisco Certified Network Associate)  
-- Flutter & Android Basics  
-- WordPress Development  
-- Shopify Training  
-- IELTS  
+- Generative AI for Developers
+- WordPress - Elementor
+- Flutter & Android Basics
+
+Additional Training:
+
+- Shopify
+- CCNA (Cisco Certified Network Associate)
+- IELTS
 
 ---
 
-## 🎯 Focus Areas
-
-- Backend architecture design  
-- Scalable API systems  
-- Clean code & maintainability  
-- Distributed queue systems  
-- Remote engineering readiness  
-
----
-
-## 📫 Contact
+## 📫 Connect With Me
 
 <p align="center">
 
-[Email](mailto:anasyusuf6@gmail.com) •
-[GitHub](https://github.com/AnasYusuf) •
-[LinkedIn](https://www.linkedin.com/in/anasyusuf)
+[📧 Email](mailto:anasyusuf6@gmail.com) •
+[💻 GitHub](https://github.com/AnasYusuf) •
+[💼 LinkedIn](https://www.linkedin.com/in/anasyusuf)
 
 </p>
 
 ---
 
 <p align="center">
-  <b>Engineering systems that scale beyond expectations.</b>
+  <b>Building secure, scalable, and maintainable backend systems.</b>
 </p>
