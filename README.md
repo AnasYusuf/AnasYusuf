@@ -8,7 +8,7 @@
 
 ## 🧠 Professional Summary
 
-Backend Engineer with **7+ years of experience** designing, building, and maintaining secure, database-driven web applications and RESTful APIs using PHP, Laravel, MySQL, and modern backend engineering practices.
+Backend Engineer with **~10 years of experience** designing, building, and maintaining secure, database-driven web applications and RESTful APIs using PHP, Laravel, MySQL, and modern backend engineering practices.
 
 Strong experience in transactional systems, asynchronous processing, backend performance optimization, and production support. Experienced in distributed teams and scalable backend architecture design.
 
