@@ -18,7 +18,7 @@ Recently expanded into Node.js by building production-style REST APIs implementi
 
 ## 🌟 Highlights
 
-- 🚀 7+ years backend engineering experience
+- 🚀 ~10 years backend engineering experience
 - 📈 Improved database performance by up to 40%
 - ⚡ Reduced backend processing time by 45%
 - 🏢 Supported enterprise systems serving 200+ outlets
