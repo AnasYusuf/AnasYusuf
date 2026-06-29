@@ -130,12 +130,13 @@ Built a production-style backend API for order processing and transactional work
 ## 💼 Career Snapshot
 
 ### Current Role
-**Software Engineer / PHP Developer — Lomax Media (Remote) | Oct 2020 – Present**
+**Senior Software Engineer — Lomax Media (Remote) | Oct 2020 – Present**
 
-- Built and maintained backend systems
-- Developed scalable APIs and admin systems
-- Improved database performance by up to 40%
-- Delivered production-ready business solutions
+- Designed backend architecture for business-critical systems
+- Built and maintained REST APIs and admin platforms using PHP and MySQL
+- Improved database performance by up to 40% through optimization and indexing
+- Implemented authentication systems, RBAC, and secure backend workflows
+- Managed production support and system enhancements independently
 
 ### Previous Experience
 
@@ -162,10 +163,10 @@ Companies:
 
 ## 📚 Currently Learning
 
+- Node JS (Advanced Node.js architecture)
 - Symfony (advanced backend patterns)
 - Redis & queue systems
 - RabbitMQ basics
-- Advanced Node.js architecture
 - Scalable system design principles
 
 ---
