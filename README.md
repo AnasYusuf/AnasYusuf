@@ -1,63 +1,92 @@
 # Hi, I'm Anas Yusuf 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Backend+Engineer;PHP+%7C+Laravel+%7C+Node.js+%7C+MySQL;REST+APIs+%7C+Scalable+Systems;Building+Production-Ready+Backends" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=700&lines=Senior+Backend+Engineer;System+Design+&+Scalable+APIs;PHP+%7C+Laravel+%7C+Node.js+%7C+MySQL;REST+APIs+%7C+Scalable+Systems;Building+Production-Ready+Backends;Android+Development;Remote+Ready" />
 </p>
 
 ---
 
 ## 🧠 Professional Summary
 
-Backend Engineer with **~10 years of experience** designing, building, and maintaining secure, database-driven web applications and RESTful APIs using PHP, Laravel, MySQL, and modern backend engineering practices.
+~10 years of experience building scalable backend systems, REST APIs, and database-driven applications across enterprise, fintech, retail, and logistics domains.
 
-Strong experience in transactional systems, asynchronous processing, backend performance optimization, and production support. Experienced in distributed teams and scalable backend architecture design.
+**Specialized in backend architecture, API design, and performance optimization using PHP, Laravel, Node.js, and MySQL, delivering high-availability systems, optimizing performance, and designing secure backend workflows.**
 
-Recently expanded into Node.js by building production-style REST APIs implementing JWT authentication, middleware-based security, and layered (Controller–Service–Repository) architecture.
+**Hands-on experience with Android application development using Android Studio, Java, Android SDK, XML layouts, and REST API integrations.**
+
+**Experienced in AI-assisted development, system design, database modeling, and production support**.
+
 
 ---
 
 ## 🌟 Highlights
 
-- 🚀 ~10 years backend engineering experience
-- 📈 Improved database performance by up to 40%
-- ⚡ Reduced backend processing time by 45%
-- 🏢 Supported enterprise systems serving 200+ outlets
-- 🔐 Built production-style authentication systems (JWT)
-- 🧱 Designed scalable backend architectures
+🚀 ~10 years of experience building scalable backend systems and mobile applications
+🏗️ Designed secure REST APIs, transactional systems, and production-ready backend architectures
+📈 Improved database performance by up to 40% through query optimization and indexing
+⚡ Reduced backend processing time by 45% through application and database optimization
+🏢 Delivered enterprise solutions supporting 200+ retail outlets and mission-critical business operations
+🔐 Implemented secure authentication using JWT, role-based access control, and API security best practices
+🔄 Built reliable asynchronous workflows using Laravel Queues, Redis, and background job processing
+📱 Maintained and enhanced native Android applications using Android Studio, Java, and REST API integrations
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Backend & APIs
-- PHP (Core PHP)
+### Backend Development
+- PHP
 - Laravel
 - Node.js
 - Express.js
-- RESTful API Design
+- RESTful API Development
 - JWT Authentication
-- API Security & Validation
+- API Security & Authorization
+- MVC & Layered Architecture
+- Background Jobs & Queue Processing
 
-### Database Engineering
-- MySQL Schema Design
-- Database Normalization
-- Query Optimization
+### Database & Data Engineering
+- MySQL
+- Database Design & Schema Modelling
+- Query Optimization & Performance Tuning
 - Indexing Strategies
+- Database Normalization
 - Transactions & Data Integrity
-- Race Condition Prevention
+- Concurrency Control & Race Condition Prevention
+- Redis
 
-### Tools & Workflow
-- Git (Branching, PRs, Code Reviews)
-- Postman API Testing
+### Mobile Development
+- Android Studio
+- Android SDK
+- Java (Android)
+- XML Layouts
+- REST API Integration
+- Gradle
+- Third-Party SDK Integration
+
+### Tools & Dev Workflow
+- Git (Branching, Pull Requests & Code Reviews)
+- Postman
 - Debugging & Logging
-- Agile Development
+- Agile / Scrum
 - Remote Team Collaboration
+- XAMPP
+- Composer
+- npm
 
-### Additional Exposure
-- JavaScript
+### Frontend Integration
+- JavaScript (ES6+)
 - AJAX
 - jQuery
+- HTML5
+- CSS3
+- Bootstrap
+
+### Additional Exposure
 - Symfony
+- RabbitMQ
+- Docker (Basic)
+- Linux (Basic)
 
 ---
 
@@ -125,31 +154,54 @@ Built a production-style backend API for order processing and transactional work
 
 🔗 https://github.com/AnasYusuf/remote-backend-demo
 
+### 📱 Android Application Development (Commercial)
+
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-00599C?style=flat" />
+</p>
+
+Contributed to the maintenance and enhancement of a commercial Android application by implementing new features, integrating backend APIs, improving UI components, resolving build issues, and supporting production releases.
+
+- Maintained native Android applications using Java, XML, and Android Studio
+- Integrated RESTful APIs and third-party libraries
+- Resolved Gradle, AndroidX, and dependency compatibility issues
+- Enhanced user interface components and application performance
+- Supported testing, debugging, and production deployments
+
+*Commercial project — source code not publicly available.*
+
 ---
 
 ## 💼 Career Snapshot
 
 ### Current Role
+
 **Senior Software Engineer — Lomax Media (Remote) | Oct 2020 – Present**
 
-- Designed backend architecture for business-critical systems
-- Built and maintained REST APIs and admin platforms using PHP and MySQL
-- Improved database performance by up to 40% through optimization and indexing
-- Implemented authentication systems, RBAC, and secure backend workflows
-- Managed production support and system enhancements independently
+- Designed and developed scalable backend systems, RESTful APIs, and database-driven applications using PHP, Laravel, MySQL, JavaScript, and jQuery.
+- Architected and optimized backend workflows including authentication systems, role-based access control (RBAC), admin platforms, and business-critical application features.
+- Improved database performance by up to 40% through query optimization, indexing strategies, schema improvements, and efficient data access patterns.
+- Developed and integrated secure API workflows supporting web applications and mobile platforms.
+- Maintained and enhanced Android applications using Android Studio, Java, Android SDK, and XML layouts, including REST API integration and UI improvements.
+- Resolved Android build issues including Gradle dependency conflicts, AndroidX migrations, and third-party library compatibility challenges.
+- Delivered production support, system enhancements, debugging, and release management in a remote development environment.
+- Collaborated with cross-functional teams using Git workflows, code reviews, and Agile development practices.
 
 ### Previous Experience
 
-Worked across multiple domains including:
+Delivered software solutions across diverse industries including:
 
-- Enterprise platforms
-- Retail management systems
-- ERP systems
-- Payment integrations
-- Logistics systems
-- Educational institutions
+- Enterprise management platforms
+- Retail and inventory systems
+- ERP solutions
+- Payment and financial integrations
+- Logistics and operational systems
+- Educational technology platforms
 
-Companies:
+Experience across organizations including:
 
 - CSD Head Office
 - Riphah University
@@ -161,13 +213,14 @@ Companies:
 
 ---
 
-## 📚 Currently Learning
+## 📚 Continuous Engineering Growth
 
-- Node JS (Advanced Node.js architecture)
-- Symfony (advanced backend patterns)
-- Redis & queue systems
-- RabbitMQ basics
-- Scalable system design principles
+- Advanced Node.js architecture and scalable backend patterns
+- Symfony and modern PHP application architecture
+- Redis caching, queues, and asynchronous processing
+- RabbitMQ and message-driven system design
+- Scalable system design, reliability, and performance optimization
+- Cloud-ready backend development practices
 
 ---
 
@@ -178,15 +231,15 @@ Companies:
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications & Professional Training
 
 - Generative AI for Developers
-- WordPress Development
-- Flutter & Android Basics
 - CCNA (Cisco Certified Network Associate)
-- Shopify Training
-- IELTS
-
+- Android & Flutter Development Fundamentals
+- WordPress Development
+- Shopify Platform Training
+- IELTS Certification
+  
 ---
 
 ## 📫 Connect With Me
