@@ -21,14 +21,14 @@
 
 ## 🌟 Highlights
 
-🚀 ~10 years of experience building scalable backend systems and mobile applications
-🏗️ Designed secure REST APIs, transactional systems, and production-ready backend architectures
-📈 Improved database performance by up to 40% through query optimization and indexing
-⚡ Reduced backend processing time by 45% through application and database optimization
-🏢 Delivered enterprise solutions supporting 200+ retail outlets and mission-critical business operations
-🔐 Implemented secure authentication using JWT, role-based access control, and API security best practices
-🔄 Built reliable asynchronous workflows using Laravel Queues, Redis, and background job processing
-📱 Maintained and enhanced native Android applications using Android Studio, Java, and REST API integrations
+- 🚀 ~10 years of experience building scalable backend systems and mobile applications
+- 🏗️ Designed secure REST APIs, transactional systems, and production-ready backend architectures
+- 📈 Improved database performance by up to 40% through query optimization and indexing
+- ⚡ Reduced backend processing time by 45% through application and database optimization
+- 🏢 Delivered enterprise solutions supporting 200+ retail outlets and mission-critical business operations
+- 🔐 Implemented secure authentication using JWT, role-based access control, and API security best practices
+- 🔄 Built reliable asynchronous workflows using Laravel Queues, Redis, and background job processing
+- 📱 Maintained and enhanced native Android applications using Android Studio, Java, and REST API integrations
 
 ---
 
