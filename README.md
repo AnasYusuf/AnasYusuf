@@ -513,6 +513,8 @@ I am interested in opportunities involving:
 <a href="https://www.linkedin.com/in/anasyusuf"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 </p>
+
 ---
+
 <p align="center"> <b>Senior Backend Engineer focused on backend architecture, system design, scalable APIs, and high-performance production systems.</b> </p>
 <p align="center"> <i>Building reliable backends that scale beyond CRUD.</i> </p>
