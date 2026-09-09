@@ -439,6 +439,9 @@ I continuously expand my backend engineering knowledge in areas including:
 I am particularly interested in backend engineering problems involving:
 
 <p align="left">
+
+  <div align="center">
+  
   <b>REST APIs</b>
   <br>↓<br>
   <b>Authentication & Authorization</b>
@@ -456,6 +459,8 @@ I am particularly interested in backend engineering problems involving:
   <b>Concurrency & Reliability</b>
   <br>↓<br>
   <b>Scalable System Architecture</b>
+  </div>
+
 </p>
 
 My goal is to build systems that are not only functional, but also:
