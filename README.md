@@ -438,23 +438,25 @@ I continuously expand my backend engineering knowledge in areas including:
 
 I am particularly interested in backend engineering problems involving:
 
-REST APIs
-     ↓
-Authentication & Authorization
-     ↓
-Business Logic
-     ↓
-Database Design
-     ↓
-Performance Optimization
-     ↓
-Caching
-     ↓
-Queues & Background Processing
-     ↓
-Concurrency & Reliability
-     ↓
-Scalable System Architecture
+<p align="center">
+  <b>REST APIs</b>
+  <br>↓<br>
+  <b>Authentication & Authorization</b>
+  <br>↓<br>
+  <b>Business Logic</b>
+  <br>↓<br>
+  <b>Database Design</b>
+  <br>↓<br>
+  <b>Performance Optimization</b>
+  <br>↓<br>
+  <b>Caching</b>
+  <br>↓<br>
+  <b>Queues & Background Processing</b>
+  <br>↓<br>
+  <b>Concurrency & Reliability</b>
+  <br>↓<br>
+  <b>Scalable System Architecture</b>
+</p>
 
 My goal is to build systems that are not only functional, but also:
 
