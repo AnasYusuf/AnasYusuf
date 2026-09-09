@@ -438,7 +438,7 @@ I continuously expand my backend engineering knowledge in areas including:
 
 I am particularly interested in backend engineering problems involving:
 
-<table style="border=0">
+<table border="0">
 <tr>
 <td align="center">
 
