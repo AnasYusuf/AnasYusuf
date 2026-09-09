@@ -415,11 +415,11 @@ I continuously expand my backend engineering knowledge in areas including:
 
 ## 🎓 Education
 
-## MSc, IT Management
-### University of Staffordshire (UK)
+### MSc, IT Management
+**University of Staffordshire (UK)**
 
-## BS, Computer Science
-### COMSATS Institute of IT
+### BS, Computer Science
+**COMSATS Institute of IT**
 
 ---
 
