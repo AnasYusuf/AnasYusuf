@@ -208,7 +208,8 @@ A production-style REST API implementing a layered backend architecture (Control
 - MySQL connection pooling
 - Clean layered architecture
 
-🔗 https://github.com/AnasYusuf/nodejs-jwt-auth-api
+**🔗 Repository:**
+https://github.com/AnasYusuf/nodejs-jwt-auth-api
 
 ---
 
@@ -233,7 +234,7 @@ The project focuses on the types of backend engineering problems encountered in 
 - Failure and retry considerations
 - Reliable background processing
 
-### 🔗 Repository:
+**🔗 Repository:**
 https://github.com/AnasYusuf/coupon-processing
 
 ---
@@ -260,8 +261,10 @@ A production-style backend API focused on **transactional order processing, data
 - Database relationships
 - Transaction and data-integrity considerations
 
-###🔗 Repository:
+**🔗 Repository:**
 https://github.com/AnasYusuf/remote-backend-demo
+
+---
 
 ### 📱 Android Application Development (Commercial)
 
@@ -272,7 +275,7 @@ https://github.com/AnasYusuf/remote-backend-demo
   <img src="https://img.shields.io/badge/XML-00599C?style=flat" />
 </p>
 
-### Responsibilities included:
+**Responsibilities included:**
 
 - Maintaining native Android applications
 - Developing features using Java and Android SDK
