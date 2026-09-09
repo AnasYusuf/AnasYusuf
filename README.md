@@ -18,7 +18,6 @@ I enjoy solving backend problems where **architecture, reliability, performance,
 
 I am also experienced in **AI-assisted software development** and continuously expanding my knowledge of scalable architectures, distributed systems, cloud-ready development, Docker, message-driven systems, and modern backend engineering practices.
 
-
 ---
 
 ## 🧠 Engineering Focus
