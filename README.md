@@ -156,7 +156,7 @@ I am also experienced in **AI-assisted software development** and continuously e
 
 ---
 
-##📱 Android Development
+## 📱 Android Development
 
 <p> <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" /> </p>
 
