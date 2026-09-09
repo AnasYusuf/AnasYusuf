@@ -438,9 +438,9 @@ I continuously expand my backend engineering knowledge in areas including:
 
 I am particularly interested in backend engineering problems involving:
 
-<table style="border: 0;">
-<tr style="border: 0;">
-<td align="left" style="border: 0;">
+<table border="0">
+<tr>
+<td align="left">
 
 <b>REST APIs</b>
 <p align="center">↓</p>
