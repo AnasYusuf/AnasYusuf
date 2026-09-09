@@ -499,14 +499,11 @@ I am interested in opportunities involving:
 - Database Engineering
 - Scalable Web Applications
 
----
-
 **Preferred environment:** Remote / Remote-first engineering teams.
 
 ---
 
 ## 📫 Let's Connect
-
 <p align="center">
 
 <a href="mailto:anasyusuf6@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
