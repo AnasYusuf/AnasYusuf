@@ -1,6 +1,6 @@
 # Hi, I'm Anas Yusuf 👋
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=Senior+Backend+Engineer;Backend+Engineering+%7C+System+Design+%26+Architecture;PHP+%7C+Laravel+%7C+Node.js;REST+APIs+%7C+MySQL+%7C+Redis;Scalable+%26+High-Performance+Systems;Production-Ready+Backend+Engineering;Remote+Ready" /> </p>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=Software+Architect;Senior+Backend+Engineer;Backend+Engineering+%7C+System+Design+%26+Architecture;PHP+%7C+Laravel+%7C+Node.js;REST+APIs+%7C+MySQL+%7C+Redis;Scalable+%26+High-Performance+Systems;Production-Ready+Backend+Engineering;Remote+Ready" /> </p>
 
 <p align="center"> <a href="https://github.com/AnasYusuf"> <img src="https://komarev.com/ghpvc/?username=AnasYusuf&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /> </a> </p>
 
