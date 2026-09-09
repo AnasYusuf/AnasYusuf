@@ -438,7 +438,7 @@ I continuously expand my backend engineering knowledge in areas including:
 
 I am particularly interested in backend engineering problems involving:
 
-<p align="center">
+<p align="left">
   <b>REST APIs</b>
   <br>↓<br>
   <b>Authentication & Authorization</b>
