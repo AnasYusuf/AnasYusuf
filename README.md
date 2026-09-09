@@ -499,7 +499,9 @@ I am interested in opportunities involving:
 - Database Engineering
 - Scalable Web Applications
 
-Preferred environment: Remote / Remote-first engineering teams.
+---
+
+**Preferred environment:** Remote / Remote-first engineering teams.
 
 ---
 
