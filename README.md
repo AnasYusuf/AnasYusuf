@@ -438,41 +438,33 @@ I continuously expand my backend engineering knowledge in areas including:
 
 I am particularly interested in backend engineering problems involving:
 
-<table border="0">
-<tr>
-<td align="center">
+<table style="border: 0;">
+<tr style="border: 0;">
+<td align="left" style="border: 0;">
 
 <b>REST APIs</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Authentication & Authorization</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Business Logic</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Database Design</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Performance Optimization</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Caching</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Queues & Background Processing</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Concurrency & Reliability</b>
-
-↓  
+<p align="center">↓</p>
 
 <b>Scalable System Architecture</b>
 
