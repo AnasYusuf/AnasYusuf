@@ -491,7 +491,7 @@ I am interested in opportunities involving:
 
 - Senior Backend Engineer
 - Senior PHP / Laravel Developer
-- Backend Software Engineer
+- Backend Software Engineer 
 - API Engineer
 - Software Engineer — Backend
 - Backend Architecture
