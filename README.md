@@ -396,7 +396,7 @@ My current engineering focus is continuing to move beyond framework-level develo
 
 Alongside my professional backend experience, I am actively expanding my hands-on development with **TypeScript and Node.js**, with a focus on type-safe API development and modern backend application design.
 
-Areas I actively work with and study include:
+**Reference Architecure / Learning Model**
 
                     ┌──────────────────────┐
                     │    Client / Apps     │
@@ -407,26 +407,28 @@ Areas I actively work with and study include:
                     │     Load Balancer    │
                     └──────────┬───────────┘
                                │
-                 ┌─────────────┼─────────────┐
-                 ▼             ▼             ▼
-          ┌────────────┐ ┌────────────┐ ┌────────────┐
-          │ Backend #1 │ │ Backend #2 │ │ Backend #N │
-          └─────┬──────┘ └─────┬──────┘ └─────┬──────┘
-                │              │              │
-                └──────────────┼──────────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-          ┌────────────┐              ┌────────────┐
-          │   Redis    │              │   MySQL    │
-          │ Cache/Jobs │              │  Database  │
-          └────────────┘              └─────┬──────┘
-                                            │
-                                            ▼
-                                     ┌────────────┐
-                                     │  Replica   │
-                                     │  Database  │
-                                     └────────────┘
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+       ┌────────────┐   ┌────────────┐   ┌────────────┐
+       │ Backend #1 │   │ Backend #2 │   │ Backend #N │
+       │ Node/TS    │   │ Node/TS    │   │ Node/TS    │
+       └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
+             │                │                │
+             └────────────────┼────────────────┘
+                              │
+                 ┌────────────┴────────────┐
+                 ▼                         ▼
+          ┌────────────┐            ┌────────────┐
+          │   Redis    │            │   MySQL    │
+          │ Cache      │            │  Primary   │
+          │ Queues     │            └─────┬──────┘
+          └─────┬──────┘                  │
+                │                         ▼
+                ▼                  ┌────────────┐
+          ┌────────────┐           │   MySQL    │
+          │   Worker   │           │  Replica   │
+          │ Processes  │           └────────────┘
+          └────────────┘
 
 Current learning and engineering areas include:
 
