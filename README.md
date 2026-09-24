@@ -220,6 +220,34 @@ I am also experienced in **AI-assisted software development** and continuously e
 
 ## 🧱 Featured Engineering Projects
 
+### 🟦 TypeScript API Client
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat" />
+</p>
+
+A practical TypeScript API client focused on **type-safe REST API integration, asynchronous programming, structured code organization, and modern backend-oriented development.**
+
+### Key areas:
+
+- TypeScript interfaces and type definitions
+- Type-safe API response handling
+- REST API integration using Fetch API
+- Async/await and asynchronous operations
+- Classes and object-oriented programming
+- ES module imports and exports
+- Service-based code organization
+- HTTP error handling
+- User data retrieval and filtering
+- Node.js-based TypeScript development
+
+**🔗 Repository:**
+https://github.com/AnasYusuf/typescript-api-client
+
+---
+
 ### 🔐 Node.js JWT Authentication API
 
 <p>
@@ -364,7 +392,9 @@ Professional experience includes work with organizations such as:
 
 ## 🧠 Architecture & Engineering Journey
 
-My current engineering focus is moving beyond framework-level development toward **deeper backend architecture and scalable system design.**
+My current engineering focus is continuing to move beyond framework-level development toward **deeper backend architecture, scalable system design, distributed systems, and modern backend engineering.**
+
+Alongside my professional backend experience, I am actively expanding my hands-on development with **TypeScript and Node.js**, with a focus on type-safe API development and modern backend application design.
 
 Areas I actively work with and study include:
 
@@ -402,6 +432,9 @@ Current learning and engineering areas include:
 
 - Scalable system architecture
 - Distributed systems fundamentals
+- TypeScript and type-safe backend development
+- Node.js backend development
+- REST API architecture
 - Database scaling
 - Caching architecture
 - Queue-based systems
@@ -423,22 +456,21 @@ Current learning and engineering areas include:
 
 I continuously expand my backend engineering knowledge in areas including:
 
-- Advanced Node.js
-- Modern PHP architecture
-- Laravel architecture and performance
-- Symfony
-- Redis and distributed caching
-- Queue systems
-- RabbitMQ
+- TypeScript
+- Node.js
+- Modern API architecture
 - System design
 - Distributed systems
 - Database scaling
-- API architecture
+- Redis and distributed caching
+- Queue systems
+- RabbitMQ
 - Docker
 - Cloud / AWS fundamentals
 - CI/CD
 - Microservices
 - Kubernetes
+- Advanced backend architecture
 - AI-assisted software development
 
 ---
@@ -519,15 +551,16 @@ My goal is to build systems that are not only functional, but also:
 
 I am interested in opportunities involving:
 
+- Software Architect
 - Senior Backend Engineer
-- Senior PHP / Laravel Developer
-- Backend Software Engineer 
-- API Engineer
-- Software Engineer — Backend
-- Backend Architecture
+- Senior Software Engineer
+- Backend Architect
+- Technical Lead
+- Staff Backend Engineer
+- API Engineering
 - System Design
-- Database Engineering
-- Scalable Web Applications
+- Distributed Systems
+- Scalable Backend Systems
 
 **Preferred environment:** Remote / Remote-first engineering teams.
 
