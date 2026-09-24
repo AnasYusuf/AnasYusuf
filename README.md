@@ -10,15 +10,17 @@
 
 ## 👨‍💻 About Me
 
-I am a **Senior Backend Engineer with 10+ years of experience** designing, developing, optimizing, and supporting production-grade web applications, REST APIs, and database-driven systems.
+I am a **Software Architect and Senior Backend Engineer with 10+ years of experience** designing, developing, optimizing, and supporting production-grade web applications, REST APIs, and database-driven systems.
 
-My primary focus is **backend engineering, system design, API architecture, database performance, scalability, and reliable business workflows.**
+My primary focus is **backend engineering, software architecture, system design, API architecture, database performance, scalability, and reliable business workflows.**
 
-I work primarily with **PHP, Laravel, Node.js, MySQL, Redis, and REST APIs,** with experience designing systems around authentication, authorization, transactions, concurrency, asynchronous processing, caching, and performance optimization.
+My professional experience includes **PHP and Laravel**, alongside growing hands-on experience with **Node.js, Express.js, and TypeScript** for modern backend and API development.
 
-I enjoy solving backend problems where **architecture, reliability, performance, and maintainability** matter.
+I work with backend systems involving authentication, authorization, transactions, concurrency, asynchronous processing, caching, database optimization, and performance engineering.
 
-I am also experienced in **AI-assisted software development** and continuously expanding my knowledge of scalable architectures, distributed systems, cloud-ready development, Docker, message-driven systems, and modern backend engineering practices.
+I enjoy solving backend problems where **architecture, reliability, performance, scalability, and maintainability** matter.
+
+I am also experienced in **AI-assisted software development** and continuously expanding my knowledge of distributed systems, cloud-ready development, Docker, message-driven systems, and modern backend engineering practices.
 
 ---
 
@@ -26,6 +28,7 @@ I am also experienced in **AI-assisted software development** and continuously e
 - 🏗️ Backend Engineering
 - 🧩 System Design & Architecture
 - 🔌 REST API Design & Development
+- 🟦 TypeScript & Type-Safe Backend Development
 - ⚡ High-Performance Backend Systems
 - 🗄️ Database Design & Optimization
 - 🔄 Asynchronous Processing & Queues
@@ -56,14 +59,39 @@ I am also experienced in **AI-assisted software development** and continuously e
 ---
 
 ## ⚙️ Technology Stack
-### 🏗️ Backend Engineering
 
-<p> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat" /> </p>
+### 🏗️ Backend Engineering & TypeScript
+
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat" />
+</p>
+
+#### TypeScript & Node.js
+
+- TypeScript fundamentals
+- Type-safe application development
+- Interfaces & type aliases
+- Union types & type narrowing
+- Optional and nullable values
+- Classes & object-oriented programming
+- ES modules
+- Async/await
+- REST API integration
+- Fetch API
+- HTTP error handling
+- Node.js
+- Express.js
+- Service-oriented code organization
+
+#### Backend Engineering
 
 - PHP 8+
 - Laravel
-- Node.js
-- Express.js
 - RESTful API Development
 - API Architecture
 - MVC & Layered Architecture
