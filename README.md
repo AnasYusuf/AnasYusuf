@@ -1,8 +1,8 @@
+# Hi, I'm Anas Yusuf 👋
+
 <p align="center">
   <img src="https://github.com/AnasYusuf/AnasYusuf/blob/main/profile-banner.jpg" alt="Anas Yusuf - Senior Backend Engineer" width="100%">
 </p>
-
-# Hi, I'm Anas Yusuf 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0D6EFD&center=true&vCenter=true&width=750&lines=Software+Architect;Senior+Backend+Engineer;Backend+Engineering+%7C+System+Design+%26+Architecture;Node.js+%7C+TypeScript+%7C+Express.js;REST+APIs+%7C+MySQL+%7C+PostgreSQL+%7C+Redis;Scalable+%26+High-Performance+Systems;Production-Ready+Backend+Engineering;Remote+Ready" />
